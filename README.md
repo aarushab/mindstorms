@@ -1,2 +1,3 @@
-# mindstorms
-All my Lego Mindstorms projects
+# Aarushs Lego Mindstorms Project
+
+Welcome to my GitHub repo for Mindstorm project.
