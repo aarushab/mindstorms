@@ -7,3 +7,7 @@ There are two types of turning in EV3:
 The program `Pivot turn` shows how to perform a pivot turn using any two large montored bot like the `DroidBot Jr` which I used. 
 
 ![code](Pivot-turn-code.png)
+
+This is how it looks in action:
+
+[![](http://img.youtube.com/vi/YYs8eEXDTOg/0.jpg)](http://www.youtube.com/watch?v=YYs8eEXDTOg "Pivot turns")
