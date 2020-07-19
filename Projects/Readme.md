@@ -17,3 +17,7 @@ This is how it looks in action:
 ## Spin Turns
 Spin turns are a type of turn that works well in a crammed area and is ideal for 180 degree turns.
 ![code](Spin-turn-code.png)
+
+## Smooth Turns
+Smooth turns are the best type of turn. They allow both wheel to move at different speeds.
+![code](Smooth-turn-code.png)
