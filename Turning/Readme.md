@@ -18,6 +18,14 @@ This is how it looks in action:
 Spin turns are a type of turn that works well in a crammed area and is ideal for 180 degree turns.
 ![code](Spin-turn-code.png)
 
+Watch this helpful video!
+
+	[Spin turn in LEGO Mindstorms](https://www.youtube.com/watch?v=IuAjPecEfMs)
+
 ## Smooth Turns
 Smooth turns are the best type of turn. They allow both wheel to move at different speeds.
 ![code](Smooth-turn-code.png)
+
+Watch this helpful video!
+
+	[Smooth turn in LEGO Mindstorms](https://www.youtube.com/watch?v=R9PMCb2rS0k)
