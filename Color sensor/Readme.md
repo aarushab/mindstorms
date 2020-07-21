@@ -1,5 +1,5 @@
-# Touch sensors
+# Color sensors
 
-Touch sensors are useful for detecting if a thing is in front of you. It will touch it then run the rest of the program as it was written.
+Color sensors are useful for detecting if a color in front of you. It will sense the color then run the rest of the program as it was written.
 
-![Bumping-code](Bumping-code.png)
+![Color-challenge-code](Color-challenge-code.png)
