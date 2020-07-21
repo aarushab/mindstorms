@@ -8,5 +8,5 @@ I am a 6th grader from Seattle who is interested in Mindstorm coding.
 ## Projects
 
 1. [Turning](Turning)
-2. [Touch sensors](Touch-sensors)
-3. [Color sensor](Color-sensors)
+2. [Touch sensors](Touch-sensor)
+3. [Color sensor](Color-sensor)
