@@ -6,4 +6,4 @@ Touch sensors are useful for detecting if a thing is in front of you. It will to
 
 Please take a look at this helpful video.
 
-	[Detecting obstacles using a touch sensor in LEGO Mindstorms EV3](https://www.youtube.com/watch?v=d6LPX05cv4w)
+[![](http://img.youtube.com/vi/d6LPX05cv4w/0.jpg)](http://www.youtube.com/watch?v=d6LPX05cv4w "Touch sensor")
