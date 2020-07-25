@@ -3,14 +3,12 @@ Grippers are very useful when it come to tranportation. They can move thing from
 
 My gripper has opposable fingers for the best grip. My gripper uses a worm gear to power both fingers in opposite direction.
 
+## Code
+![Gripper](Gripper.png)
+
+## Gripper design
 ![Bottom](Bottom.jpg)
 
 ![Top](Top.jpg)
 
 ![Front](Front.jpg)
-
-Here is my code:
-![Gripper](Gripper.png)
-
-
-
