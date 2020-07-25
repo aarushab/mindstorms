@@ -1,8 +1,6 @@
-# Touch sensors
+# Simple gripper
 
-Touch sensors are useful for detecting if a thing is in front of you. It will touch it then run the rest of the program as it was written.
-
-![Touch-sensor](Bumping-code.png)
+![Gripper](Gripper.png)
 
 Please take a look at this helpful video.
 
