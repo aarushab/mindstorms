@@ -1,9 +1,12 @@
-# Touch sensors
+# Retreiver
 
-Touch sensors are useful for detecting if a thing is in front of you. It will touch it then run the rest of the program as it was written.
+Just as a heads up a Gripper is needed for this challenge.
 
-![Touch-sensor](Bumping-code.png)
+My retreiver bot can get something from one place grab it move to another place then set it down.
+This robot can be used to give you a stuffed animal, toy, etc.
 
-Please take a look at this helpful video.
 
-[![](http://img.youtube.com/vi/d6LPX05cv4w/0.jpg)](http://www.youtube.com/watch?v=d6LPX05cv4w "Touch sensor")
+
+
+
+
